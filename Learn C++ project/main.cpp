@@ -2,13 +2,22 @@
 #include "main.h"
 
 
+
+
 int main()
 {
-	plog::init(plog::debug, "Logfile.txt");
+#if 0
+	
 	int x{ getUserInput() };
-	PLOGD << "testin";
-	int y{ getUserInput() };
-	writeAnswer(x + y);
+#endif
+	std::cout << std::boolalpha;
+	
+	for (int z = 1; z < 35; ++z){
+		
+		//std::cout << 6 % z << " " << z( << std::endl;
+		std::cout << z << " " << checkPrime(z) << std::endl;
+	}
+	
 	return 0;
 }
 

@@ -10,3 +10,20 @@
 2024-10-02 12:07:21.302 DEBUG [17072] [getUserInput@8] getUserInput(1) called
 2024-10-02 12:07:37.498 DEBUG [17072] [main@9] testin
 2024-10-02 12:07:39.577 DEBUG [17072] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:09:39.582 DEBUG [24604] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:10:12.868 DEBUG [24812] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:10:16.101 DEBUG [24812] [main@9] testin
+2024-10-02 12:10:16.101 DEBUG [24812] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:16:52.310 DEBUG [28016] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:16:53.649 DEBUG [28016] [main@9] testin
+2024-10-02 12:16:53.649 DEBUG [28016] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:17:07.502 DEBUG [10760] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:17:09.267 DEBUG [10760] [main@9] testin
+2024-10-02 12:17:09.267 DEBUG [10760] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:29:53.413 DEBUG [26484] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:29:55.009 DEBUG [26484] [main@10] testin
+2024-10-02 12:29:55.009 DEBUG [26484] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:30:06.866 DEBUG [26372] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:30:08.921 DEBUG [26372] [main@10] testin
+2024-10-02 12:30:08.921 DEBUG [26372] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:31:51.247 DEBUG [19420] [getUserInput@8] getUserInput(1) called
