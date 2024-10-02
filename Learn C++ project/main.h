@@ -6,5 +6,5 @@
 #include <cstddef>
 #include <limits>
 
-int getUserInput();
+int getIntUserInput();
 void writeAnswer(int);

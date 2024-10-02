@@ -2,7 +2,7 @@
 #include <iostream>
 
 
-int getUserInput() {
+int getIntUserInput() {
 	std::cout << "Please enter a value: ";
 	int input{};
 	PLOGD << "getUserInput(1) called";
