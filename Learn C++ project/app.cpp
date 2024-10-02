@@ -1,8 +1,6 @@
 #include "app.h"
 #include <iostream>
-#include <Plog/Log.h>
-#include <plog/Initializers/RollingFileInitializer.h>
-plog::init(plog::debug, "Logfile.txt");
+
 
 int getUserInput() {
 	std::cout << "Please enter a value: ";
