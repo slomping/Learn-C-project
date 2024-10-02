@@ -1,0 +1,12 @@
+﻿2024-10-02 11:57:51.279 DEBUG [25860] [main@14] getUserInput() called
+2024-10-02 11:59:39.099 DEBUG [28340] [main@14] getUserInput(1) called
+2024-10-02 12:02:06.131 DEBUG [11408] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:02:30.706 DEBUG [22124] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:02:32.790 DEBUG [22124] [main@9] testin
+2024-10-02 12:02:32.791 DEBUG [22124] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:04:49.529 DEBUG [27132] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:04:51.350 DEBUG [27132] [main@9] testin
+2024-10-02 12:04:51.350 DEBUG [27132] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:07:21.302 DEBUG [17072] [getUserInput@8] getUserInput(1) called
+2024-10-02 12:07:37.498 DEBUG [17072] [main@9] testin
+2024-10-02 12:07:39.577 DEBUG [17072] [getUserInput@8] getUserInput(1) called
