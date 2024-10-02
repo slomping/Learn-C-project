@@ -5,6 +5,7 @@
 #include <cstdint>
 #include <cstddef>
 #include <limits>
-
-int getUserInput();
+#include <string>
+const std::string enterValue_generic{"Please enter a value: "};
+int getIntUserInput(std::string);
 void writeAnswer(int);

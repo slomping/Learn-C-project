@@ -2,10 +2,9 @@
 #include <iostream>
 
 
-int getUserInput() {
-	std::cout << "Please enter a value: ";
+int getIntUserInput(std::string prompt) {
+	std::cout << prompt;
 	int input{};
-	PLOGD << "getUserInput(1) called";
 	std::cin >> input;
 	return input;
 }
