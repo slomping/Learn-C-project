@@ -1,7 +1,7 @@
 #include "app.h"
 #include <iostream>
-#include <Log.h>
-#include <RollingFileInitializer.h>
+#include <Plog/Log.h>
+#include <plog/Initializers/RollingFileInitializer.h>
 plog::init(plog::debug, "Logfile.txt");
 
 int getUserInput() {
